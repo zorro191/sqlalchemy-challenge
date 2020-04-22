@@ -2,13 +2,13 @@
 SQLAlchemy Homework - Surfs Up!
 
 
-## Step 1 - Climate Analysis and Exploration
+We have decided to treat ourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. 
 
-Precipitation Analysis
-Station Analysis
+The analysis included a range of 3-15 days total.
 
+We also used a query to view rainfall in the last year.  
 
-## Step 2 - Climate App
+We plotted the data to show where there was more rain and when. 
 
-Routes
+This will allow us to pick the best place and time to plan our trip.
 
